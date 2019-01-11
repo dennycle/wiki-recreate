@@ -7,6 +7,9 @@
 .panel-info {
   background-color: #e6f9ff;
 }
+.panel-warning {
+  background-color: #f9e6ff;
+}
 .panel-title {
   color: black;
   font-weight: bold;
