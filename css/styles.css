@@ -7,3 +7,21 @@
 .panel-info {
   background-color: #e6f9ff;
 }
+.panel-title {
+  color: black;
+  font-weight: bold;
+}
+.col-md-2 {
+  padding-top: 20px;
+}
+.sidebar {
+  float: left;
+}
+img {
+  display: block;
+  width: 120%;
+  margin: 20px;
+}
+.container {
+  padding: 0;
+}
