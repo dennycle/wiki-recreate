@@ -28,3 +28,7 @@ img {
 .container {
   padding: 0;
 }
+.highlight {
+  border: 5px solid yellow;
+  background-color: yellow;
+}
